@@ -6,3 +6,4 @@ It uses the **BLE** protocol to send HID commands and it works surely on android
 
 You might need a ble device connecting app if the device isnt showing on your phone's bluetooth device list.
 
+If you have any issues report them on the issues page!!!!
