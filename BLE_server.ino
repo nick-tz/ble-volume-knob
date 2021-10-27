@@ -1,6 +1,6 @@
 
 #include <BleKeyboard.h>
-BleKeyboard bleKeyboard("ESP32-MEDIA", "Nick Tzoufas", 100);
+BleKeyboard bleKeyboard("Volume Knob", "Nick-tz", 100);
 const int ROTARY_A = 17;
 const int ROTARY_B = 18;
 const int TOGGLE = 5;
